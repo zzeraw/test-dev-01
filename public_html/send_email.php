@@ -1,5 +1,4 @@
 <?php
-
 require_once('_params.php');
 
 /**
